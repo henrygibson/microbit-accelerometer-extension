@@ -1,1 +1,1 @@
-# microbit-accelerometer-extension
+# microbit-arcade-accelerometer
